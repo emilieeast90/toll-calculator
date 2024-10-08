@@ -1,0 +1,11 @@
+{
+    "name": "toll-calculator",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "TollCalculator.js",
+    "description": "Toll calculator to achieve an efficient way to calculate toll fees for vehicles",
+    "scripts": {
+        "start": "node TollCalculator.js",
+        "start:watch": "node --watch TollCalculator.js"
+    }
+}
